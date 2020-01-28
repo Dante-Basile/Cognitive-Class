@@ -1,0 +1,11 @@
+EMP_ID,F_NAME,DEP_ID,DEP_NAME
+"E1001    ","John","2        ","Architect Group"
+"E1002    ","Alice","5        ","Software Group"
+"E1003    ","Steve","5        ",""
+"E1004    ","Santosh","5        ",""
+"E1005    ","Ahmed","2        ",""
+"E1006    ","Nancy","2        ","Architect Group"
+"E1007    ","Mary","7        ","Design Team"
+"E1008    ","Bharath","7        ",""
+"E1009    ","Andrea","7        ",""
+"E1010    ","Ann","5        ",""
